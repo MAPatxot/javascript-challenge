@@ -1,9 +1,7 @@
-# javascript-challenge
+# JavaScript & DOM Manipulation
 
 <b>Deployment Link</b>
 - https://mapatxot.github.io/javascript-challenge/
-
-## <b>JavaScript & DOM Manipulation</b>
 
 <b>Challenge Instructions:</b>
 
