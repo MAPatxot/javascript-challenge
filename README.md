@@ -1,7 +1,7 @@
 # javascript-challenge
 
 <b>Deployment Link</b>
-- https://mapatxot.github.io/javascript-challenge/
+- [UFO Sightings | Level 2] https://mapatxot.github.io/javascript-challenge/
 
 ## <b>JavaScript & DOM Manipulation</b>
 
